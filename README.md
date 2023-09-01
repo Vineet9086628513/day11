@@ -8,7 +8,6 @@ This is a simple HTML and JavaScript code that calculate the tip
 
 ### HTML Code
 
-The HTML code consists of a `<div>` element that contains a button. The button has an `onclick` event listener that calls the `changeBackgroundColor()` function when clicked.
 
 ```html
 <!DOCTYPE html>
